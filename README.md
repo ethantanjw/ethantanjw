@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p>
 I am an undergraduate at Carnegie Mellon University 
 
-You can email me at: ethantanjw2@gmail.com
+Feel free to reach out to me at: ethantanjw2@gmail.com
 
 <h3>Find me also on:</h3>
 <p align="left">
